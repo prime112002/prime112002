@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I'm an aspiring  Engineer and a recent graduate with a B.E. in Electronics and Communication from Adichunchanagiri Institute of Technology, Chikkamagaluru. With a strong interest in software development,I has been focusing on becoming a full-stack developer using the MERN stack. <br> I has hands-on experience with HTML, CSS, JavaScript, Nodejs,MOngoDB,Git, Docker, and Kubernetes.  I has built projects such as a personal stock tracker and a blog application, demonstrating my skills in web development and cloud technologies. I'm actively seeking opportunities to apply my knowledge in DevOps and full-stack development.
+I'm an aspiring  Engineer and a recent graduate with a Bacholres of Engineering. in Electronics and Communication from Bengaluru India. With a strong interest in software development,I has been focusing on becoming a full-stack developer using the MERN stack. <br> I has hands-on experience with HTML, CSS, JavaScript, Nodejs,MOngoDB,Git, Docker, and Kubernetes.  I has built projects such as a personal stock tracker and a blog application, demonstrating my skills in web development and cloud technologies. I'm actively seeking opportunities to apply my knowledge in DevOps and full-stack development.
 
 
 # 💻 Tech Stack:
